@@ -1,19 +1,21 @@
-## Project Status
+# AI Collab Board
 
-🚧 This project is currently under development. New features and improvements will be added regularly.
+🚧 **Project Status:** In Progress
 
-# CollabBoard AI
-
-Real-time collaborative whiteboard application.
+This project is currently under development. New features, UI improvements, and AI-powered collaboration capabilities are being added regularly.
 
 ## Tech Stack
-
 - React
-
 - TypeScript
-
 - Spring Boot
+- WebSockets
+- STOMP
+- AI Integration
 
-- MySQL
-
-- WebSocket
+## Features (Planned)
+- Real-time collaboration
+- Interactive whiteboard
+- AI-assisted drawing
+- User authentication
+- Undo/Redo
+- Export board
